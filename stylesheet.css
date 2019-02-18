@@ -1,0 +1,25 @@
+.header{
+  height:50px;
+  background-color:#90EE90;
+}
+.header-logo{
+  color:white;
+  padding:15px;
+}
+img{
+  width:150px;
+  height:190px;
+}
+
+.title {
+  color: #02ccba;
+}
+li{
+  list-style: none;
+}
+li{
+  float:left;
+}
+.contents-item{
+  float:left;
+}
